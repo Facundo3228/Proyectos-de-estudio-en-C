@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1575491770 source:c:\users\facundo\desktop\proyectos del laboratorio en c\clase_4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"utn.h"
+
+1453762398 c:\users\facundo\desktop\proyectos del laboratorio en c\clase_4\include\utn.h
+
+1575400028 source:c:\users\facundo\desktop\proyectos del laboratorio en c\clase_4\src\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

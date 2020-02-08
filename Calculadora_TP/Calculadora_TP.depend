@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1577417219 source:c:\users\facundo\desktop\proyectos del laboratorio en c\calculadora_tp\src\cal_funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"cal_Funciones.h"
+
+1577404795 c:\users\facundo\desktop\proyectos del laboratorio en c\calculadora_tp\include\cal_funciones.h
+
+1577421372 source:c:\users\facundo\desktop\proyectos del laboratorio en c\calculadora_tp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cal_Funciones.h"
+

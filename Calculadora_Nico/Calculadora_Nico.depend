@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1577370793 source:c:\users\facundo\desktop\proyectos del laboratorio en c\calculadora_nico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones_Calculadora.h"
+
+1576955168 c:\users\facundo\desktop\proyectos del laboratorio en c\calculadora_nico\include\funciones_calculadora.h
+
+1576955653 source:c:\users\facundo\desktop\proyectos del laboratorio en c\calculadora_nico\src\funciones_calculadora.c
+	"Funciones_Calculadora.h"
+
